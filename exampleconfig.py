@@ -26,4 +26,4 @@ class Development(Config):
     ALIVE_PIC = "https://telegra.ph//file/d2cc42f5b6bd3803bde52.jpg"
     G_DRIVE_CLIENT_ID = "603295118468-uo0m2ae3lhafr54gsfoksu6sqe4hdqho.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "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"
-    G_DRIVE_FOLDER_ID = 
+    G_DRIVE_FOLDER_ID = "1taZxMHUCUNVzIepVarJMUHpMvHAdv1rj"
