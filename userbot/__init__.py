@@ -4,7 +4,8 @@ import time
 
 import heroku3
 
-from .Config import Config
+from .Config.catub_config import os
+
 from .core.logger import logging
 from .core.session import catub
 from .helpers.functions.converter import Convert
